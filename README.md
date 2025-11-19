@@ -63,6 +63,8 @@ I love building things that combine **software + hardware**, from web pages to A
 
 ---
 
+![snake gif](https://github.com/Harshavardhan979/Harshavardhan979/blob/output/github-snake-dark.svg)
+
 ## 📫 Contact
 **Email:** itsharshakofficial@gmail.com
 
@@ -74,3 +76,5 @@ I enjoy creating small projects that make learning fun — even simple circuits 
 ---
 
 ⭐ *Thanks for visiting! Feel free to check out my repositories.*  
+
+
