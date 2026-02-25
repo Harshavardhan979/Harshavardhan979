@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Harshavardhan</h1>
 <p align="center">
-  🔥 Developer | IoT & Embedded Systems | Web Developer  
+  🔥 Developer |  Web Developer  
 </p>
 
 ---
 
 ## 🚀 About Me
-I'm Harshavardhan — a developer passionate about **Web Development, IoT, Embedded Systems, and Python automation**.  
+I'm Harshavardhan — a developer passionate about **Web Development, Embedded Systems, and Python automation**.  
 I love building things that combine **software + hardware**, from web pages to Arduino & Raspberry Pi projects.
 
 ---
