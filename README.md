@@ -24,11 +24,10 @@ I’m constantly learning new technologies and improving my development skills t
 
 ## 💻 Programming Languages
 
-* HTML5
+* HTML
 * CSS3
 * JavaScript
 * Python
-* Java
 
 ---
 
